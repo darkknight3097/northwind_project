@@ -1,0 +1,4 @@
+shipper,total_orders,avg_days_to_ship,fastest_days,slowest_days
+Federal Shipping,249,7.5,1,35
+Speedy Express,245,8.6,1,37
+United Package,315,9.2,1,37
